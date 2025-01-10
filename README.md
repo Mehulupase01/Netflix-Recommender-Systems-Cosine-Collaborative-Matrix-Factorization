@@ -1,0 +1,2 @@
+# Netflix Recommender Systems Using Cosine Similarity, Collaborative Filtering, and Matrix Factorization
+ This project implements various approaches for building recommender systems, including Cosine Similarity, Collaborative Filtering (user-based and item-based), and Matrix Factorization using Alternating Least Squares (ALS). The system predicts ratings for users based on their movie preferences from the Netflix-like dataset.
