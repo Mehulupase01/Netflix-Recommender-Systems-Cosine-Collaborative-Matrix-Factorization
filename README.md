@@ -53,7 +53,7 @@ The code is structured as follows:
 
 ```bash
 python main.py -d /path/to/data.npy -s 2023 -m js
-
+```
 ## Output
 
 The results are stored in files like `js.txt`, `cs.txt`, or `dcs.txt` based on the selected similarity measure. Each file contains pairs of users that satisfy the corresponding similarity threshold.
